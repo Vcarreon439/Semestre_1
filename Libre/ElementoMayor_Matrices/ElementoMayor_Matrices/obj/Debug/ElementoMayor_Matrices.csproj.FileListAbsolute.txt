@@ -1,0 +1,14 @@
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\obj\Debug\ElementoMayor_Matrices.csproj.CoreCompileInputs.cache
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\bin\Debug\ElementoMayor_Matrices.exe.config
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\bin\Debug\ElementoMayor_Matrices.exe
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\bin\Debug\ElementoMayor_Matrices.pdb
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\obj\Debug\ElementoMayor_Matrices.exe
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\obj\Debug\ElementoMayor_Matrices.pdb
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\Lolo\obj\Debug\ElementoMayor_Matrices.csprojAssemblyReference.cache
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\bin\Debug\ElementoMayor_Matrices.exe.config
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\bin\Debug\ElementoMayor_Matrices.exe
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\bin\Debug\ElementoMayor_Matrices.pdb
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\obj\Debug\ElementoMayor_Matrices.csprojAssemblyReference.cache
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\obj\Debug\ElementoMayor_Matrices.csproj.CoreCompileInputs.cache
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\obj\Debug\ElementoMayor_Matrices.exe
+D:\Respaldo\Escolar\Instituto Tecnologico Superior de Lerdo\Primer Semestre\Fundamentos de Programacion\Libre\Lolo\ElementoMayor_Matrices\obj\Debug\ElementoMayor_Matrices.pdb
